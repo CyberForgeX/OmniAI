@@ -27,26 +27,19 @@ QEM-L is in the prototype phase. Future releases will provide installation instr
 ### Basic Usage
 
 Write QEM-L code using a concise set of symbols. Example:
-
-```qeml
 (🌌🔍)➡️🔗
-```
+
 
 This represents a quantum superposition search operation collapsing to a specific state when linked.
 
 ### Advanced Examples
 
 Entangled search operations:
-
-```qeml
 EM(🔍⬆️)⬜(🔍⬇️)
-```
+
 
 Dimensional gateway example:
-
-```qeml
 DG(🔄🌐)➡️🔗
-```
 
 ## Contribution
 
